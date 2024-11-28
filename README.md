@@ -1,12 +1,13 @@
 # Car Hub
 
-[GitHub Repository](https://github.com/yourusername/car-hub) | [Live Preview](https://yourusername.vercel.app)
+[GitHub Repository](https://github.com/Shivani-Challagulla/cars-rental) | [Live Preview](https://cars-showroom-one.vercel.app)
 
 Skills: Next.js, TypeScript, TailwindCSS, React.js, ninja-cars-API, Vercel
 
 **Description**: Developed a website called "Car Hub" as a Next.js project with TypeScript to showcase a diverse range of cars from various manufacturers. This platform provides information about different car models, enabling users to explore details about each car.
 
 **Key Accomplishments**:
+
 1. Utilized the ninja-cars-API to retrieve and display details for a wide selection of cars.
 2. Created reusable React.js components to construct interactive pages efficiently.
 3. Implemented search functionality using regex to enable users to find specific cars easily.
